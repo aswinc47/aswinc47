@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aswinc47
-- 👀 I’m interested in Design and coding
-- 🌱 I’m currently learning Backend- MERN STACK , Auto-desk maya
-- 💞️ I’m looking to collaborate on Web design and 3d graphics
+- 👀 I’m interested in Web development and coding
+- 🌱 I’m currently learning MEAN - MERN Stack web development, Data structures and Algorithms.
+- 💞️ I’m looking to collaborate on Web front-end and back-end development
 - 📫 Email me at aswinvipin11@gmail.com
 
 <!---
